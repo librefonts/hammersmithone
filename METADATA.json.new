@@ -1,0 +1,41 @@
+{
+  "name": "Hammersmith One",
+  "designer": "Nicole Fally",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 19277,
+  "fonts": [
+    {
+      "name": "HammersmithOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HammersmithOne-Regular-TTF.ttf",
+      "postScriptName": "HammersmithOne-Regular",
+      "fullName": "HammersmithOne Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co. (www.sorkintype.com)\nwith Reserved Font Name \"Hammersmith\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "HammersmithOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HammersmithOne-Regular.ttf",
+      "postScriptName": "HammersmithOne-Regular",
+      "fullName": "HammersmithOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co. (www.sorkintype.com)\rwith Reserved Font Name \"Hammersmith\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "HammersmithOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HammersmithOne-Regular-OTF.ttf",
+      "postScriptName": "HammersmithOne-Regular",
+      "fullName": "HammersmithOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co. (www.sorkintype.com)\rwith Reserved Font Name \"Hammersmith\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-06-29"
+}

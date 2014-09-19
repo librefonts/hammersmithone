@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [HammersmithOne-Regular.ttf.ttx, src/HammersmithOne-Regular.otf.ttx,
+  src/HammersmithOne-Regular-TTF.sfd, src/HammersmithOne-Regular-OTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
